@@ -1,4 +1,4 @@
-package com.ayush.ricknmorty.ui.theme
+package com.ayush.ricknmorty.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.ayush.ricknmorty.ui.theme
+package com.ayush.ricknmorty.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
